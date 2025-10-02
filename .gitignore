@@ -53,3 +53,9 @@ Thumbs.db
 .env
 .env.local
 .env.*.local
+
+
+node_modules/
+.next/
+.env
+.git/
